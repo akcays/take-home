@@ -1,6 +1,7 @@
 # take-home
 
 git clone https://github.com/akcays/take-home
+
 cd take-home
 
 ### Instructions to Run Tests
